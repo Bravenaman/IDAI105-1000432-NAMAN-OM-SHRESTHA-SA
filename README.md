@@ -9,8 +9,8 @@ An interactive Business Intelligence web application built with **Streamlit**. T
 ---
 
 ## 🎓 Academic Details
-- **Developer:** Zene-Sophie-Anand  
-- **WACP No:** 1000442  
+- **Developer:** Naman-Om-Shrestha 
+- **WACP No:** 1000432  
 - **CRS Subject:** Artificial Intelligence  
 - **Course Name:** Data Mining / IBCP (AI)  
 - **Institution:** Aspen Nutan Academy  
@@ -28,7 +28,7 @@ As a Data Analyst at InsightMart Analytics, this project analyzes historical Bla
 
 ## 🚀 Live Dashboard
 
-👉 **[Click here to view the live app](https://idai105-1000442-zene-sophie-anand-sa.streamlit.app/)**  
+👉 **[Click here to view the live app](https://idai105-1000432-naman-om-shrestha-sa.streamlit.app/)**  
 
 ---
 
@@ -133,7 +133,7 @@ As a Data Analyst at InsightMart Analytics, this project analyzes historical Bla
 ## 📂 Repository Structure
 
 ```text
-IDAI105-1000442-ZENE-SOPHIE-ANAND/
+IDAI105-1000432-NAMAN-OM-SHRESTHA/
 │
 ├── app.py
 ├── requirements.txt
@@ -150,8 +150,8 @@ IDAI105-1000442-ZENE-SOPHIE-ANAND/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/zeneanand/IDAI105-1000442-ZENE-SOPHIE-ANAND.git
-cd IDAI105-1000442-ZENE-SOPHIE-ANAND
+git clone https://github.com/Bravenaman/IDAI105-1000432-NAMAN-OM-SHRESTHA-SA.git
+cd IDAI105-1000432-NAMAN-OM-SHRESTHA-SA
 ```
 
 2. Install dependencies
