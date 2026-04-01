@@ -166,6 +166,49 @@ streamlit run app.py
 
 ---
 
+## 🔗 Integration Details
+
+This project integrates multiple data science and web technologies into a unified Streamlit dashboard:
+
+- **Frontend Framework:** Streamlit (interactive UI and visualization rendering)
+- **Data Processing:** Pandas & NumPy for data cleaning and transformation
+- **Machine Learning Models:**  
+  - K-Means Clustering (customer segmentation)  
+  - Apriori Algorithm (market basket analysis)  
+- **Visualization Libraries:** Plotly Express for dynamic and interactive charts  
+- **Preprocessing Tools:** Scikit-learn (StandardScaler, encoding techniques)
+
+All components are seamlessly connected within `app.py`, where:
+- Data is loaded and preprocessed
+- Machine learning models are applied
+- Results are visualized interactively for user exploration
+
+---
+
+## 🚀 Deployment Instructions
+
+This application is deployed using **Streamlit Community Cloud**.
+
+### Steps to Deploy:
+
+1. Push your project to a GitHub repository  
+2. Go to: https://streamlit.io/cloud  
+3. Click **"New App"**  
+4. Select your repository:
+   - Repo: `IDAI105-1000432-NAMAN-OM-SHRESTHA-SA`
+   - Branch: `main`
+   - File: `app.py`
+5. Click **Deploy**
+
+### Deployment Requirements:
+- A valid `requirements.txt` file
+- Main app file named `app.py`
+- Clean and error-free code
+
+Once deployed, Streamlit will generate a public link for your app.
+
+---
+
 ## 📚 References
 
 - https://scikit-learn.org/  
